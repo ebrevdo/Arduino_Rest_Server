@@ -30,7 +30,7 @@
   #include "WProgram.h"
 #endif
 
-#include <stream.h> 
+#include <Stream.h> 
 #include <string.h>
 #include <avr/pgmspace.h>
 #include "config_rest.h"
